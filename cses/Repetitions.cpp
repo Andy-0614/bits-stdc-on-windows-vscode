@@ -18,4 +18,5 @@ int main() {
     string dna;
     cin >> dna;
     cout << solveRepetitions(dna) << "\n";
+    return 0;
 }

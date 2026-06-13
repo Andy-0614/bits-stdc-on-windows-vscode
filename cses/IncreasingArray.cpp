@@ -27,4 +27,5 @@ int main() {
         cin >> arr[i];
     }
     cout << solveIncreasingArray(arr) << "\n";
+    return 0;
 }
