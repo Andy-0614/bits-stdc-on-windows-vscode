@@ -5,3 +5,4 @@ git branch -M main
 git add .
 git commit -m ""
 git push -u origin main
+git push -f -u origin main
